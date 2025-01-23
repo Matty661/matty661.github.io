@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I Am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Matthew Alkhoury! I mainly go by Matty661 or Matty1 online.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Interests:
 
-What else do you need?
+- Game Development
+- Electronics
+- Software Development
+- Everything else IT
+- Heavy Computer Nerd 
+- Massive Minecraft Player
+- Many More that'll take too much space to list :D
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As of 2025, I am a 20yr old aspiring Software Engineer while also focusing on creating an IT company that specialized on many fields of the industry. Currently I am focused on building a passion project game that I have been wanting to complete for a few years now. I like to post updates about my work in their respective subpages :) for those who are interested.
