@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - BlackSmithing: "blacksmithing"
-    - Others:
+    - Others: "404"
+    - Maites: "maitesGames"
 
 ################
 # --- Logo --- #
