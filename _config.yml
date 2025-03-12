@@ -22,9 +22,12 @@ author: Matthew Alkhoury | Matty661/Matty1
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - BlackSmithing: "blacksmithing"
-    - Others: "404"
+    - Personal: "404"
+      PersonalProjects:
+      - TestSite: "404"
     - Maites: "maitesGames"
+      ExperiencesAndProjects:
+      - BlackSmithing: "blacksmithing"
 
 ################
 # --- Logo --- #
@@ -51,7 +54,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bmatty661@hotmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: Matty661
   twitter: Matty6615

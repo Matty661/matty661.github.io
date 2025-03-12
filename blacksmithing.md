@@ -13,4 +13,5 @@ Welcome to, Blacksmithing, my game development passion project that is being cre
 
 <div class="TrelloBoard">
 <iframe src="https://trello.com/b/sNiWRDP8.html" width = "100%" height = "1000px" alt="TrelloBoard">Game Progress Board</iframe>
+<p>Copyright Matthew Alkhoury | Matty661 | 2025</p>
 </div>
