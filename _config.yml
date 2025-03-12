@@ -22,12 +22,13 @@ author: Matthew Alkhoury | Matty661/Matty1
 navbar-links:
   About Me: "aboutme"
   Projects:
+  
     - Personal: "404"
-      PersonalProjects:
-      - TestSite: "404"
+      TestSite: "404"
+
+
     - Maites: "maitesGames"
-      ExperiencesAndProjects:
-      - BlackSmithing: "blacksmithing"
+      BlackSmithing: "blacksmithing"
 
 ################
 # --- Logo --- #
