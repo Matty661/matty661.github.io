@@ -9,5 +9,5 @@ Welcome to, Blacksmithing, my game development passion project that is being cre
 # Trello Board
 
 <div class="TrelloBoard">
-<iframe src="https://trello.com/b/sNiWRDP8.html" width = "100%" height = "75%" alt="NotFound">Community Link</iframe>
+<iframe src="https://trello.com/b/sNiWRDP8.html" width = "750px" height = "500px" alt="NotFound">Game Progress Board</iframe>
 </div>
